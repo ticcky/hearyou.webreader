@@ -7,11 +7,13 @@ Usage
 =====
 
 run reader: 
+
 <code>$ python webreader.py</code>
 
 run asr input: 
+
 <code>$ python voicecommander.py</code>
 
 License: Public domain
 
-- Lukas Zilka
+-- Lukas Zilka
