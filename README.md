@@ -1,12 +1,17 @@
 hearyou.webreader
 =================
 
-Usage:
-run reader:
-        python webreader.py
-run asr input:
-        python voicecommander.py
-
 DISCLAIMER: All code serves just as a proof-of-concept and servers solely for educational purposes.
-LICENSE: Public domain
-AUTHOR: Lukas Zilka
+
+Usage
+=====
+
+run reader: 
+<code>$ python webreader.py</code>
+
+run asr input: 
+<code>$ python voicecommander.py</code>
+
+License: Public domain
+
+- Lukas Zilka
